@@ -1,0 +1,16 @@
+/* Selector universal */
+*{
+    box-sizing: border-box;
+}
+/* selector dse etiqueta */
+h1{
+    color: yellow;
+}
+/* selector de clase */
+.header{
+    color: blue;
+}
+/* selector de ID */
+#header-id{
+    color: aqua;
+}

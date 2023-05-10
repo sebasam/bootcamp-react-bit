@@ -16,3 +16,14 @@ p{
 ul > li {
     list-style: none;
 }
+#seccion-2{
+    margin: 0;
+    font-size: 17px;
+}
+.secciones {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #FFFFFF;
+    border: 10px ridge #CCC;
+    border-radius: 50px;
+}
