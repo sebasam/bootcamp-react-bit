@@ -1,8 +1,5 @@
+//Objetos, recorriendo y sacando el promedio de las notas
 let promedio = 0
-
-
-
-
 
 const estudiantes = {    
     estudiante1: {
@@ -23,9 +20,6 @@ const estudiantes = {
 }
 
 let llavesObjeto = Object.keys(estudiantes)
-
-
-
 
 for(let llave of llavesObjeto){
     let nombre = estudiantes[llave].nombre
