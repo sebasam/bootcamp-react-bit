@@ -4,9 +4,11 @@ const main = document.createElement('main')
 const span = document.createElement('span')
 
 body.style.height = '100vh'
+//Inserta codigo HTML
 body.innerHTML = "<h1>Soy un encabezado h1 generado desde JS</h1>"
 body.innerHTML = "<h1>Un nuevo contenido</h1>"
 
+//Inserte Texto
 span.innerText = "Hola soy un span nodo"
 
 //Añadiendo span al body
